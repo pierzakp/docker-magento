@@ -17,7 +17,6 @@
 - [Updates](#updates)
 - [Custom CLI Commands](#custom-cli-commands)
 - [Misc Info](#misc-info)
-- [Credits](#credits)
 - [License](#license)
 
 ## Docker Hub
